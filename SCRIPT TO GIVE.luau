@@ -1,3 +1,5 @@
+print("LOADER STARTED")
+
 --// The Forge Time License Loader
 
 local HttpService = game:GetService("HttpService")
