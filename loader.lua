@@ -5,8 +5,8 @@ local player = Players.LocalPlayer
 local userId = tostring(player.UserId)
 
 -- Put your RAW URLs here
-local LICENSE_URL = "https://raw.githubusercontent.com/casualybrent/roblox-licenses/refs/heads/main/licenses.json?token=GHSAT0AAAAAADSLTCKBPULP3VUANVUYOLG62KY5ZNQ"
-local MAIN_URL = "https://raw.githubusercontent.com/casualybrent/roblox-licenses/refs/heads/main/main.lua?token=GHSAT0AAAAAADSLTCKBVSBDIGFK6EYV5WFW2KY5ZYA"
+local LICENSE_URL = "https://raw.githubusercontent.com/casualybrent/roblox-licenses/refs/heads/main/licenses.json?token=GHSAT0AAAAAADSLTCKA7DUFE4A4UZRSUXCM2KY55TQ"
+local MAIN_URL = "https://raw.githubusercontent.com/casualybrent/roblox-licenses/refs/heads/main/main.lua?token=GHSAT0AAAAAADSLTCKA4GWRSQCAKWUYMS6I2KY56RQ"
 
 -- Fetch license data
 local data = game:HttpGet(LICENSE_URL)
