@@ -3,7 +3,7 @@
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
 
-local LICENSE_URL = "https://raw.githubusercontent.com/casualybrent/roblox-licenses/refs/heads/main/licenses.json?token=GHSAT0AAAAAADSLTCKBRHXHIGHEX62RVCUW2KY6R3A"
+local LICENSE_URL = "https://raw.githubusercontent.com/casualybrent/roblox-licenses/refs/heads/main/licenses.json?token=GHSAT0AAAAAADSLTCKA45M4I2VEZ7YVXUV62KY64JQ"
 local SCRIPT_URL = "https://raw.githubusercontent.com/XZuuyaX/TheForge/refs/heads/main/A%20F.luau"
 
 local player = Players.LocalPlayer
